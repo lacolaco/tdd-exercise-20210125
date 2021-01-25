@@ -2,12 +2,14 @@
   "extends": "standard",
   "globals": {
     "test": true,
-    "expect": true
+    "expect": true,
+    "describe": true
   },
   "rules": {
     "indent": "off",
     "quotes": "off",
     "semi": "off",
-    "space-before-function-paren": "off"
+    "space-before-function-paren": "off",
+    "comma-dangle": "off"
   }
 }
